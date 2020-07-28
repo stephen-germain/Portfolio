@@ -1,0 +1,4 @@
+.intro .text-slider-items {
+  display: none;
+  animation: typedjsBlink 0.7s infinite;
+}
